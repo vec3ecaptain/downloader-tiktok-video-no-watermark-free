@@ -1,0 +1,2 @@
+# Work Log
+Enforce camelCase for all JavaScript variable names
