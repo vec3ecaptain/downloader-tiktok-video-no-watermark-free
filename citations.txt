@@ -1,2 +1,3 @@
 # Work Log
 Enforce camelCase for all JavaScript variable names
+Update the code review guidelines for new team members
